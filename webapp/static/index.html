@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Latihan Thai</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;500;600;700&family=IBM+Plex+Sans+Thai:wght@400;500;600;700&family=Sarabun:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- grain overlay -->
+  <svg class="grain" xmlns="http://www.w3.org/2000/svg">
+    <filter id="noise"><feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" stitchTiles="stitch"/></filter>
+    <rect width="100%" height="100%" filter="url(#noise)"/>
+  </svg>
+
+  <main class="app">
+    <header class="brand">
+      <div class="brand-left">
+        <div class="logo" aria-hidden="true">ก</div>
+        <div class="brand-text">
+          <span class="brand-name">Latihan Thai</span>
+          <span class="brand-sub">เรียนคำศัพท์ทุกวัน</span>
+        </div>
+      </div>
+      <div class="dir-toggle" id="dirToggle" role="tablist">
+        <button data-dir="th2id" class="active">ไทย → Arti</button>
+        <button data-dir="id2th">Arti → ไทย</button>
+        <button data-dir="mixed">Campur</button>
+      </div>
+    </header>
+
+    <section class="stats" id="stats">
+      <div class="stat"><span class="num" id="statDue">–</span><span class="lbl">Perlu diulang</span></div>
+      <div class="stat"><span class="num" id="statMastered">–</span><span class="lbl">Dikuasai</span></div>
+      <div class="stat ok"><span class="num" id="statCorrect">0</span><span class="lbl">Benar</span></div>
+      <div class="stat bad"><span class="num" id="statWrong">0</span><span class="lbl">Salah</span></div>
+      <div class="stat streak"><span class="num" id="statStreak">0</span><span class="lbl">Streak</span></div>
+    </section>
+
+    <section class="card" id="card">
+      <div class="card-rim"></div>
+      <div class="card-meta">
+        <span class="level" id="level" title="Tingkat hafalan">
+          <span class="level-label">Level</span>
+          <span class="pips" id="pips"></span>
+        </span>
+        <span class="dir-pill" id="dirPill">ไทย → Arti</span>
+      </div>
+
+      <div class="prompt-wrap">
+        <span class="prompt-tag" id="promptTag">Apa artinya?</span>
+        <div class="prompt" id="prompt">…</div>
+      </div>
+
+      <div class="options" id="options"></div>
+
+      <div class="afterthought" id="afterthought" hidden>
+        <div class="reveal" id="reveal"></div>
+        <div class="example" id="example" hidden></div>
+      </div>
+
+      <div class="card-actions" id="cardActions" hidden>
+        <button class="btn-primary" id="nextBtn">Lanjut <span class="kbd">↵</span></button>
+      </div>
+    </section>
+
+    <div class="footer-row">
+      <button class="btn-ghost" id="endBtn">Akhiri sesi</button>
+      <div class="font-toggle" id="fontToggle" title="Mudah = huruf berkepala (มีหัว), gampang dibaca pemula. Sulit = huruf tanpa kepala (ไม่มีหัว), gaya modern/papan iklan.">
+        <span class="ft-label">ก ไทย</span>
+        <button data-font="easy" class="active">Mudah</button>
+        <button data-font="hard">Sulit</button>
+      </div>
+    </div>
+    <p class="hint">Salah → muncul lebih sering · Benar → makin jarang</p>
+
+    <div class="done" id="done" hidden>
+      <div class="done-mark">✓</div>
+      <h2>Mantap, selesai!</h2>
+      <p>Tidak ada kata yang perlu diulang untuk arah ini. Coba arah lain atau kembali lagi nanti.</p>
+    </div>
+  </main>
+
+  <div class="overlay" id="summary" hidden>
+    <div class="summary-card">
+      <button class="summary-close" id="summaryClose" aria-label="Tutup">×</button>
+      <span class="summary-kicker">Ringkasan sesi</span>
+      <div class="ring-wrap">
+        <svg class="ring" viewBox="0 0 120 120">
+          <circle class="ring-bg" cx="60" cy="60" r="52"/>
+          <circle class="ring-fg" id="ringFg" cx="60" cy="60" r="52"/>
+        </svg>
+        <div class="ring-center"><span class="ring-num" id="sumAcc">0%</span><span class="ring-lbl">akurasi</span></div>
+      </div>
+      <div class="summary-stats">
+        <div class="sstat"><span class="num" id="sumTotal">0</span><span class="lbl">Kartu</span></div>
+        <div class="sstat ok"><span class="num" id="sumCorrect">0</span><span class="lbl">Benar</span></div>
+        <div class="sstat bad"><span class="num" id="sumWrong">0</span><span class="lbl">Salah</span></div>
+        <div class="sstat streak"><span class="num" id="sumBest">0</span><span class="lbl">Streak terbaik</span></div>
+      </div>
+      <div class="summary-miss" id="summaryMiss"></div>
+      <button class="btn-primary" id="restartBtn">Mulai sesi baru</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,666 @@
+[
+{
+"id": 221,
+"thai": "ผมซื้อของฝากมาฝากคุณ",
+"roman": "phǒm sɯ́ɯ khɔ̌ɔng fàak maa fàak khun",
+"arti": "Saya beli oleh-oleh untuk kamu.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ซื้อ", "roman": "sɯ́ɯ", "arti": "beli"},
+{"thai": "ของฝาก", "roman": "khɔ̌ɔng fàak", "arti": "oleh-oleh"},
+{"thai": "มา", "roman": "maa", "arti": "datang/untuk"},
+{"thai": "ฝาก", "roman": "fàak", "arti": "titip/beri"},
+{"thai": "คุณ", "roman": "khun", "arti": "kamu"}
+]
+},
+{
+"id": 222,
+"thai": "ขอตัวก่อนนะครับ",
+"roman": "khɔ̌ɔ tua kɔ̀ɔn ná kráp",
+"arti": "Saya pamit dulu ya.",
+"breakdown": [
+{"thai": "ขอตัว", "roman": "khɔ̌ɔ tua", "arti": "pamit"},
+{"thai": "ก่อน", "roman": "kɔ̀ɔn", "arti": "dulu"},
+{"thai": "นะ", "roman": "ná", "arti": "ya"},
+{"thai": "ครับ", "roman": "kráp", "arti": "partikel sopan (laki-laki)"}
+]
+},
+{
+"id": 223,
+"thai": "ขอโทษครับ ผมมาสาย",
+"roman": "khɔ̌ɔ thôot kráp phǒm maa sǎai",
+"arti": "Maaf, saya datang telat.",
+"breakdown": [
+{"thai": "ขอโทษ", "roman": "khɔ̌ɔ thôot", "arti": "maaf"},
+{"thai": "ครับ", "roman": "kráp", "arti": "partikel sopan (laki-laki)"},
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "มา", "roman": "maa", "arti": "datang"},
+{"thai": "สาย", "roman": "sǎai", "arti": "telat"}
+]
+},
+{
+"id": 224,
+"thai": "เขาขับเป็นไหม",
+"roman": "khǎo khàp pen mǎi",
+"arti": "Dia bisa nyetir nggak?",
+"breakdown": [
+{"thai": "เขา", "roman": "khǎo", "arti": "dia"},
+{"thai": "ขับ", "roman": "khàp", "arti": "kemudikan/setir"},
+{"thai": "เป็น", "roman": "pen", "arti": "bisa (terampil)"},
+{"thai": "ไหม", "roman": "mǎi", "arti": "apakah (tanya)"}
+]
+},
+{
+"id": 225,
+"thai": "ผมขับรถไปทำงาน",
+"roman": "phǒm khàp rót pai tham-ngaan",
+"arti": "Saya nyetir ke kantor.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ขับรถ", "roman": "khàp rót", "arti": "nyetir"},
+{"thai": "ไป", "roman": "pai", "arti": "pergi"},
+{"thai": "ทำงาน", "roman": "tham-ngaan", "arti": "kerja"}
+]
+},
+{
+"id": 226,
+"thai": "ราคาขึ้นแล้ว",
+"roman": "raa-khaa khʉ̂n lɛ́ɛw",
+"arti": "Harganya sudah naik.",
+"breakdown": [
+{"thai": "ราคา", "roman": "raa-khaa", "arti": "harga"},
+{"thai": "ขึ้น", "roman": "khʉ̂n", "arti": "naik"},
+{"thai": "แล้ว", "roman": "lɛ́ɛw", "arti": "sudah"}
+]
+},
+{
+"id": 227,
+"thai": "คนไข้รออยู่ข้างนอก",
+"roman": "khon khâi rɔɔ yùu khâang nɔ̂ɔk",
+"arti": "Pasien menunggu di luar.",
+"breakdown": [
+{"thai": "คนไข้", "roman": "khon khâi", "arti": "pasien"},
+{"thai": "รอ", "roman": "rɔɔ", "arti": "menunggu"},
+{"thai": "อยู่", "roman": "yùu", "arti": "sedang/berada"},
+{"thai": "ข้างนอก", "roman": "khâang nɔ̂ɔk", "arti": "di luar"}
+]
+},
+{
+"id": 228,
+"thai": "ผมเคยไปครั้งหนึ่ง",
+"roman": "phǒm khəəi pai khráng nʉ̀ng",
+"arti": "Saya pernah pergi sekali.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "เคย", "roman": "khəəi", "arti": "pernah"},
+{"thai": "ไป", "roman": "pai", "arti": "pergi"},
+{"thai": "ครั้งหนึ่ง", "roman": "khráng nʉ̀ng", "arti": "sekali"}
+]
+},
+{
+"id": 229,
+"thai": "กินครั้งเดียวพอ",
+"roman": "kin khráng diiaw phɔɔ",
+"arti": "Makan sekali saja cukup.",
+"breakdown": [
+{"thai": "กิน", "roman": "kin", "arti": "makan"},
+{"thai": "ครั้งเดียว", "roman": "khráng diiaw", "arti": "sekali saja"},
+{"thai": "พอ", "roman": "phɔɔ", "arti": "cukup"}
+]
+},
+{
+"id": 230,
+"thai": "วันนี้มีคลาสบ่ายโมง",
+"roman": "wan-níi mii khlâat bàai moong",
+"arti": "Hari ini ada kelas jam satu siang.",
+"breakdown": [
+{"thai": "วันนี้", "roman": "wan-níi", "arti": "hari ini"},
+{"thai": "มี", "roman": "mii", "arti": "ada/punya"},
+{"thai": "คลาส", "roman": "khlâat", "arti": "kelas"},
+{"thai": "บ่ายโมง", "roman": "bàai moong", "arti": "jam satu siang"}
+]
+},
+{
+"id": 231,
+"thai": "ความรักสำคัญมาก",
+"roman": "khwaam rák sǎm-khan mâak",
+"arti": "Cinta itu sangat penting.",
+"breakdown": [
+{"thai": "ความ", "roman": "khwaam", "arti": "(prefix kata benda abstrak)"},
+{"thai": "รัก", "roman": "rák", "arti": "cinta/sayang"},
+{"thai": "สำคัญ", "roman": "sǎm-khan", "arti": "penting"},
+{"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+]
+},
+{
+"id": 232,
+"thai": "งานนี้มีความสำคัญมาก",
+"roman": "ngaan níi mii khwaam sǎm-khan mâak",
+"arti": "Pekerjaan ini sangat penting.",
+"breakdown": [
+{"thai": "งาน", "roman": "ngaan", "arti": "pekerjaan"},
+{"thai": "นี้", "roman": "níi", "arti": "ini"},
+{"thai": "มี", "roman": "mii", "arti": "punya/ada"},
+{"thai": "ความสำคัญ", "roman": "khwaam sǎm-khan", "arti": "kepentingan"},
+{"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+]
+},
+{
+"id": 233,
+"thai": "ขอบคุณคะ",
+"roman": "khɔ̀ɔp-khun khá",
+"arti": "Terima kasih (perempuan).",
+"breakdown": [
+{"thai": "ขอบคุณ", "roman": "khɔ̀ɔp-khun", "arti": "terima kasih"},
+{"thai": "คะ", "roman": "khá", "arti": "partikel sopan perempuan (nada tinggi)"}
+]
+},
+{
+"id": 234,
+"thai": "ผมคาดหวังไว้สูง",
+"roman": "phǒm khâat-wǎng wái sǔung",
+"arti": "Saya berekspektasi tinggi.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "คาดหวัง", "roman": "khâat-wǎng", "arti": "berekspektasi"},
+{"thai": "ไว้", "roman": "wái", "arti": "(menyatakan keadaan tersimpan)"},
+{"thai": "สูง", "roman": "sǔung", "arti": "tinggi"}
+]
+},
+{
+"id": 235,
+"thai": "เรานั่งที่คาเฟ่กัน",
+"roman": "rao nâng thîi khaa-fêe kan",
+"arti": "Kita duduk di kafe bareng.",
+"breakdown": [
+{"thai": "เรา", "roman": "rao", "arti": "kita"},
+{"thai": "นั่ง", "roman": "nâng", "arti": "duduk"},
+{"thai": "ที่", "roman": "thîi", "arti": "di"},
+{"thai": "คาเฟ่", "roman": "khaa-fêe", "arti": "kafe"},
+{"thai": "กัน", "roman": "kan", "arti": "bareng/sama-sama"}
+]
+},
+{
+"id": 236,
+"thai": "ผมมีคำถามครับ",
+"roman": "phǒm mii kham-thǎam kráp",
+"arti": "Saya punya pertanyaan.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "มี", "roman": "mii", "arti": "punya/ada"},
+{"thai": "คำถาม", "roman": "kham-thǎam", "arti": "pertanyaan"},
+{"thai": "ครับ", "roman": "kráp", "arti": "partikel sopan (laki-laki)"}
+]
+},
+{
+"id": 237,
+"thai": "เราคุยกันทุกวัน",
+"roman": "rao khui kan thúk wan",
+"arti": "Kita ngobrol bareng tiap hari.",
+"breakdown": [
+{"thai": "เรา", "roman": "rao", "arti": "kita"},
+{"thai": "คุยกัน", "roman": "khui kan", "arti": "ngobrol bareng"},
+{"thai": "ทุก", "roman": "thúk", "arti": "tiap"},
+{"thai": "วัน", "roman": "wan", "arti": "hari"}
+]
+},
+{
+"id": 238,
+"thai": "วันนี้ค่อนข้างร้อน",
+"roman": "wan-níi khôn khâang rɔ́ɔn",
+"arti": "Hari ini agak panas.",
+"breakdown": [
+{"thai": "วันนี้", "roman": "wan-níi", "arti": "hari ini"},
+{"thai": "ค่อนข้าง", "roman": "khôn khâang", "arti": "agak/cukup"},
+{"thai": "ร้อน", "roman": "rɔ́ɔn", "arti": "panas"}
+]
+},
+{
+"id": 239,
+"thai": "ได้ค่ะ",
+"roman": "dâai khâ",
+"arti": "Bisa (perempuan).",
+"breakdown": [
+{"thai": "ได้", "roman": "dâai", "arti": "bisa/boleh"},
+{"thai": "ค่ะ", "roman": "khâ", "arti": "partikel sopan perempuan (nada rendah)"}
+]
+},
+{
+"id": 240,
+"thai": "ค่าทางด่วนแพงขึ้น",
+"roman": "khâa thaang dùuan phɛɛng khʉ̂n",
+"arti": "Biaya tol jadi lebih mahal.",
+"breakdown": [
+{"thai": "ค่าทางด่วน", "roman": "khâa thaang dùuan", "arti": "biaya tol"},
+{"thai": "แพง", "roman": "phɛɛng", "arti": "mahal"},
+{"thai": "ขึ้น", "roman": "khʉ̂n", "arti": "(jadi) lebih"}
+]
+},
+{
+"id": 241,
+"thai": "ผมต้องจ่ายค่าปรับ",
+"roman": "phǒm tɔ̂ng jàai khâa pràp",
+"arti": "Saya harus bayar denda.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ต้อง", "roman": "tɔ̂ng", "arti": "harus"},
+{"thai": "จ่าย", "roman": "jàai", "arti": "bayar"},
+{"thai": "ค่าปรับ", "roman": "khâa pràp", "arti": "denda"}
+]
+},
+{
+"id": 242,
+"thai": "ค่ารถวันนี้เท่าไหร่",
+"roman": "khâa rót wan-níi thâo-rài",
+"arti": "Berapa biaya transportasi hari ini?",
+"breakdown": [
+{"thai": "ค่ารถ", "roman": "khâa rót", "arti": "biaya transportasi"},
+{"thai": "วันนี้", "roman": "wan-níi", "arti": "hari ini"},
+{"thai": "เท่าไหร่", "roman": "thâo-rài", "arti": "berapa"}
+]
+},
+{
+"id": 243,
+"thai": "ผมมีงานด่วนต้องทำ",
+"roman": "phǒm mii ngaan dùuan tɔ̂ng tham",
+"arti": "Saya ada kerjaan urgent yang harus dikerjakan.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "มี", "roman": "mii", "arti": "punya/ada"},
+{"thai": "งานด่วน", "roman": "ngaan dùuan", "arti": "kerjaan urgent"},
+{"thai": "ต้อง", "roman": "tɔ̂ng", "arti": "harus"},
+{"thai": "ทำ", "roman": "tham", "arti": "kerjakan"}
+]
+},
+{
+"id": 244,
+"thai": "ผมขี่จักรยานไปโรงเรียน",
+"roman": "phǒm khìi jàk-krá-yaan pai roong-riian",
+"arti": "Saya naik sepeda ke sekolah.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ขี่", "roman": "khìi", "arti": "naik/mengendarai"},
+{"thai": "จักรยาน", "roman": "jàk-krá-yaan", "arti": "sepeda"},
+{"thai": "ไป", "roman": "pai", "arti": "pergi"},
+{"thai": "โรงเรียน", "roman": "roong-riian", "arti": "sekolah"}
+]
+},
+{
+"id": 245,
+"thai": "เชียงใหม่เป็นจังหวัดที่สวย",
+"roman": "chiiang-mài pen jang-wàt thîi sǔuay",
+"arti": "Chiang Mai adalah provinsi yang indah.",
+"breakdown": [
+{"thai": "เชียงใหม่", "roman": "chiiang-mài", "arti": "Chiang Mai"},
+{"thai": "เป็น", "roman": "pen", "arti": "adalah"},
+{"thai": "จังหวัด", "roman": "jang-wàt", "arti": "provinsi"},
+{"thai": "ที่", "roman": "thîi", "arti": "yang"},
+{"thai": "สวย", "roman": "sǔuay", "arti": "indah/cantik"}
+]
+},
+{
+"id": 246,
+"thai": "ช่วยจัดโต๊ะหน่อย",
+"roman": "chûuay jàt tó nɔ̀i",
+"arti": "Tolong atur mejanya dong.",
+"breakdown": [
+{"thai": "ช่วย", "roman": "chûuay", "arti": "tolong/bantu"},
+{"thai": "จัด", "roman": "jàt", "arti": "atur"},
+{"thai": "โต๊ะ", "roman": "tó", "arti": "meja"},
+{"thai": "หน่อย", "roman": "nɔ̀i", "arti": "sedikit/dong"}
+]
+},
+{
+"id": 247,
+"thai": "มื้อนี้จัดเต็มเลย",
+"roman": "mʉ́ʉ níi jàt tem ləəi",
+"arti": "Makan ini all-out banget.",
+"breakdown": [
+{"thai": "มื้อ", "roman": "mʉ́ʉ", "arti": "kali makan"},
+{"thai": "นี้", "roman": "níi", "arti": "ini"},
+{"thai": "จัดเต็ม", "roman": "jàt tem", "arti": "all-out/maksimal"},
+{"thai": "เลย", "roman": "ləəi", "arti": "banget (penegas)"}
+]
+},
+{
+"id": 248,
+"thai": "ที่นั่งมีจำกัด",
+"roman": "thîi nâng mii jam-kàt",
+"arti": "Tempat duduk terbatas.",
+"breakdown": [
+{"thai": "ที่นั่ง", "roman": "thîi nâng", "arti": "tempat duduk"},
+{"thai": "มี", "roman": "mii", "arti": "ada/punya"},
+{"thai": "จำกัด", "roman": "jam-kàt", "arti": "terbatas"}
+]
+},
+{
+"id": 249,
+"thai": "ผมจำไม่ได้",
+"roman": "phǒm jam mâi dâai",
+"arti": "Saya tidak bisa ingat.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "จำไม่ได้", "roman": "jam mâi dâai", "arti": "tidak bisa ingat"}
+]
+},
+{
+"id": 250,
+"thai": "จุดหมายของเราคือทะเล",
+"roman": "jùt mǎai khɔ̌ɔng rao khʉʉ thá-lee",
+"arti": "Tujuan kita adalah pantai/laut.",
+"breakdown": [
+{"thai": "จุดหมาย", "roman": "jùt mǎai", "arti": "tujuan/destinasi"},
+{"thai": "ของ", "roman": "khɔ̌ɔng", "arti": "punya/dari"},
+{"thai": "เรา", "roman": "rao", "arti": "kita"},
+{"thai": "คือ", "roman": "khʉʉ", "arti": "adalah"},
+{"thai": "ทะเล", "roman": "thá-lee", "arti": "laut/pantai"}
+]
+},
+{
+"id": 251,
+"thai": "กินข้าวก่อนนะจ้ะ",
+"roman": "kin khâao kɔ̀ɔn ná jâ",
+"arti": "Makan dulu ya sayang.",
+"breakdown": [
+{"thai": "กินข้าว", "roman": "kin khâao", "arti": "makan"},
+{"thai": "ก่อน", "roman": "kɔ̀ɔn", "arti": "dulu"},
+{"thai": "นะ", "roman": "ná", "arti": "ya"},
+{"thai": "จ้ะ", "roman": "jâ", "arti": "partikel kasih sayang"}
+]
+},
+{
+"id": 252,
+"thai": "ไปด้วยกันนะจ๊ะ",
+"roman": "pai dûuay kan ná já",
+"arti": "Pergi bareng ya sayang.",
+"breakdown": [
+{"thai": "ไป", "roman": "pai", "arti": "pergi"},
+{"thai": "ด้วยกัน", "roman": "dûuay kan", "arti": "bareng"},
+{"thai": "นะ", "roman": "ná", "arti": "ya"},
+{"thai": "จ๊ะ", "roman": "já", "arti": "partikel kasih sayang"}
+]
+},
+{
+"id": 253,
+"thai": "พรุ่งนี้ผมไปฉีดวัคซีน",
+"roman": "phrûng-níi phǒm pai chìit wák-siin",
+"arti": "Besok saya pergi vaksinasi.",
+"breakdown": [
+{"thai": "พรุ่งนี้", "roman": "phrûng-níi", "arti": "besok"},
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ไป", "roman": "pai", "arti": "pergi"},
+{"thai": "ฉีดวัคซีน", "roman": "chìit wák-siin", "arti": "vaksinasi"}
+]
+},
+{
+"id": 254,
+"thai": "นี่เป็นกรณีฉุกเฉิน",
+"roman": "nîi pen kɔɔ-rá-nii chùk-chə̌ən",
+"arti": "Ini situasi darurat.",
+"breakdown": [
+{"thai": "นี่", "roman": "nîi", "arti": "ini"},
+{"thai": "เป็น", "roman": "pen", "arti": "adalah"},
+{"thai": "กรณี", "roman": "kɔɔ-rá-nii", "arti": "kasus/situasi"},
+{"thai": "ฉุกเฉิน", "roman": "chùk-chə̌ən", "arti": "darurat"}
+]
+},
+{
+"id": 255,
+"thai": "ผมรอมาสองชั่วโมง",
+"roman": "phǒm rɔɔ maa sɔ̌ɔng chûa-moong",
+"arti": "Saya sudah menunggu dua jam.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "รอ", "roman": "rɔɔ", "arti": "menunggu"},
+{"thai": "มา", "roman": "maa", "arti": "(sudah, sampai sekarang)"},
+{"thai": "สอง", "roman": "sɔ̌ɔng", "arti": "dua"},
+{"thai": "ชั่วโมง", "roman": "chûa-moong", "arti": "jam (durasi)"}
+]
+},
+{
+"id": 256,
+"thai": "ผมชอบดื่มชา",
+"roman": "phǒm chɔ̂ɔp dʉ̀ʉm chaa",
+"arti": "Saya suka minum teh.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ชอบ", "roman": "chɔ̂ɔp", "arti": "suka"},
+{"thai": "ดื่ม", "roman": "dʉ̀ʉm", "arti": "minum"},
+{"thai": "ชา", "roman": "chaa", "arti": "teh"}
+]
+},
+{
+"id": 257,
+"thai": "คุณเป็นชาติอะไร",
+"roman": "khun pen châat à-rai",
+"arti": "Kamu warga negara apa?",
+"breakdown": [
+{"thai": "คุณ", "roman": "khun", "arti": "kamu"},
+{"thai": "เป็น", "roman": "pen", "arti": "adalah"},
+{"thai": "ชาติ", "roman": "châat", "arti": "bangsa/kebangsaan"},
+{"thai": "อะไร", "roman": "à-rai", "arti": "apa"}
+]
+},
+{
+"id": 258,
+"thai": "ผมขอชาไทยแก้วหนึ่ง",
+"roman": "phǒm khɔ̌ɔ chaa thai kɛ̂ɛw nʉ̀ng",
+"arti": "Saya minta satu gelas Thai tea.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ขอ", "roman": "khɔ̌ɔ", "arti": "minta"},
+{"thai": "ชาไทย", "roman": "chaa thai", "arti": "Thai tea"},
+{"thai": "แก้ว", "roman": "kɛ̂ɛw", "arti": "gelas"},
+{"thai": "หนึ่ง", "roman": "nʉ̀ng", "arti": "satu"}
+]
+},
+{
+"id": 259,
+"thai": "วันนี้ขอชิวๆ",
+"roman": "wan-níi khɔ̌ɔ chiw chiw",
+"arti": "Hari ini mau santai-santai aja.",
+"breakdown": [
+{"thai": "วันนี้", "roman": "wan-níi", "arti": "hari ini"},
+{"thai": "ขอ", "roman": "khɔ̌ɔ", "arti": "minta/mau"},
+{"thai": "ชิว", "roman": "chiw", "arti": "chill/santai"},
+{"thai": "ๆ", "roman": "chiw", "arti": "(pengulangan: santai-santai)"}
+]
+},
+{
+"id": 260,
+"thai": "ช่วงนี้ผมยุ่งมาก",
+"roman": "chûang níi phǒm yûng mâak",
+"arti": "Akhir-akhir ini saya sibuk banget.",
+"breakdown": [
+{"thai": "ช่วง", "roman": "chûang", "arti": "periode/momen"},
+{"thai": "นี้", "roman": "níi", "arti": "ini"},
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ยุ่ง", "roman": "yûng", "arti": "sibuk"},
+{"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+]
+},
+{
+"id": 261,
+"thai": "ขอโทษนะ ช่วยไม่ได้แล้ว",
+"roman": "khɔ̌ɔ thôot ná chûuay mâi dâai lɛ́ɛw",
+"arti": "Maaf ya, sudah tidak bisa bantu.",
+"breakdown": [
+{"thai": "ขอโทษ", "roman": "khɔ̌ɔ thôot", "arti": "maaf"},
+{"thai": "นะ", "roman": "ná", "arti": "ya"},
+{"thai": "ช่วยไม่ได้แล้ว", "roman": "chûuay mâi dâai lɛ́ɛw", "arti": "sudah tidak bisa bantu"}
+]
+},
+{
+"id": 262,
+"thai": "ซีรีย์เรื่องนี้สนุก",
+"roman": "sii-rîi rʉ̂ang níi sà-nùk",
+"arti": "Serial ini seru.",
+"breakdown": [
+{"thai": "ซีรีย์", "roman": "sii-rîi", "arti": "serial/series"},
+{"thai": "เรื่อง", "roman": "rʉ̂ang", "arti": "judul/cerita"},
+{"thai": "นี้", "roman": "níi", "arti": "ini"},
+{"thai": "สนุก", "roman": "sà-nùk", "arti": "seru/menyenangkan"}
+]
+},
+{
+"id": 263,
+"thai": "ผมอยากซื้อกาแฟ",
+"roman": "phǒm yàak sɯ́ɯ kaa-fɛɛ",
+"arti": "Saya mau beli kopi.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "อยาก", "roman": "yàak", "arti": "mau/ingin"},
+{"thai": "ซื้อ", "roman": "sɯ́ɯ", "arti": "membeli"},
+{"thai": "กาแฟ", "roman": "kaa-fɛɛ", "arti": "kopi"}
+]
+},
+{
+"id": 264,
+"thai": "ช่วยพูดซ้ำอีกครั้ง",
+"roman": "chûuay phûut sám ìik khráng",
+"arti": "Tolong ulangi sekali lagi.",
+"breakdown": [
+{"thai": "ช่วย", "roman": "chûuay", "arti": "tolong/bantu"},
+{"thai": "พูด", "roman": "phûut", "arti": "bicara/ucapkan"},
+{"thai": "ซ้ำ", "roman": "sám", "arti": "ulang"},
+{"thai": "อีก", "roman": "ìik", "arti": "lagi"},
+{"thai": "ครั้ง", "roman": "khráng", "arti": "kali"}
+]
+},
+{
+"id": 265,
+"thai": "เราขึ้นไปบนดอย",
+"roman": "rao khʉ̂n pai bon dɔɔi",
+"arti": "Kita naik ke atas gunung.",
+"breakdown": [
+{"thai": "เรา", "roman": "rao", "arti": "kita"},
+{"thai": "ขึ้น", "roman": "khʉ̂n", "arti": "naik"},
+{"thai": "ไป", "roman": "pai", "arti": "pergi"},
+{"thai": "บน", "roman": "bon", "arti": "di atas"},
+{"thai": "ดอย", "roman": "dɔɔi", "arti": "gunung (utara)"}
+]
+},
+{
+"id": 266,
+"thai": "เพลงนี้ดังเกินไป",
+"roman": "phleeng níi dang kəən pai",
+"arti": "Lagu ini terlalu keras.",
+"breakdown": [
+{"thai": "เพลง", "roman": "phleeng", "arti": "lagu"},
+{"thai": "นี้", "roman": "níi", "arti": "ini"},
+{"thai": "ดัง", "roman": "dang", "arti": "keras (suara)"},
+{"thai": "เกินไป", "roman": "kəən pai", "arti": "terlalu"}
+]
+},
+{
+"id": 267,
+"thai": "ฝนตก ดังนั้นเราอยู่บ้าน",
+"roman": "fǒn tòk dang nán rao yùu bâan",
+"arti": "Hujan, oleh karena itu kita di rumah.",
+"breakdown": [
+{"thai": "ฝน", "roman": "fǒn", "arti": "hujan"},
+{"thai": "ตก", "roman": "tòk", "arti": "turun"},
+{"thai": "ดังนั้น", "roman": "dang nán", "arti": "oleh karena itu"},
+{"thai": "เรา", "roman": "rao", "arti": "kita"},
+{"thai": "อยู่", "roman": "yùu", "arti": "berada/tinggal"},
+{"thai": "บ้าน", "roman": "bâan", "arti": "rumah"}
+]
+},
+{
+"id": 268,
+"thai": "เขาเป็นดาราดัง",
+"roman": "khǎo pen daa-raa dang",
+"arti": "Dia artis terkenal.",
+"breakdown": [
+{"thai": "เขา", "roman": "khǎo", "arti": "dia"},
+{"thai": "เป็น", "roman": "pen", "arti": "adalah"},
+{"thai": "ดารา", "roman": "daa-raa", "arti": "artis/selebriti"},
+{"thai": "ดัง", "roman": "dang", "arti": "terkenal"}
+]
+},
+{
+"id": 269,
+"thai": "ผมชอบสีดำ",
+"roman": "phǒm chɔ̂ɔp sǐi dam",
+"arti": "Saya suka warna hitam.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ชอบ", "roman": "chɔ̂ɔp", "arti": "suka"},
+{"thai": "สี", "roman": "sǐi", "arti": "warna"},
+{"thai": "ดำ", "roman": "dam", "arti": "hitam"}
+]
+},
+{
+"id": 270,
+"thai": "ผมชอบดำน้ำที่ทะเล",
+"roman": "phǒm chɔ̂ɔp dam nám thîi thá-lee",
+"arti": "Saya suka menyelam di laut.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ชอบ", "roman": "chɔ̂ɔp", "arti": "suka"},
+{"thai": "ดำน้ำ", "roman": "dam nám", "arti": "menyelam/diving"},
+{"thai": "ที่", "roman": "thîi", "arti": "di"},
+{"thai": "ทะเล", "roman": "thá-lee", "arti": "laut"}
+]
+},
+{
+"id": 271,
+"thai": "อาหารร้านนี้ดีมาก",
+"roman": "aa-hǎan ráan níi dii mâak",
+"arti": "Makanan restoran ini sangat enak.",
+"breakdown": [
+{"thai": "อาหาร", "roman": "aa-hǎan", "arti": "makanan"},
+{"thai": "ร้าน", "roman": "ráan", "arti": "toko/restoran"},
+{"thai": "นี้", "roman": "níi", "arti": "ini"},
+{"thai": "ดี", "roman": "dii", "arti": "baik/bagus"},
+{"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+]
+},
+{
+"id": 272,
+"thai": "เมื่อคืนผมนอนดึก",
+"roman": "mʉ̂a-khʉʉn phǒm nɔɔn dɯ̀k",
+"arti": "Semalam saya tidur larut.",
+"breakdown": [
+{"thai": "เมื่อคืน", "roman": "mʉ̂a-khʉʉn", "arti": "semalam"},
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "นอน", "roman": "nɔɔn", "arti": "tidur"},
+{"thai": "ดึก", "roman": "dɯ̀k", "arti": "larut malam"}
+]
+},
+{
+"id": 273,
+"thai": "ผมดื่มน้ำเยอะ",
+"roman": "phǒm dʉ̀ʉm nám yə́",
+"arti": "Saya minum banyak air.",
+"breakdown": [
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ดื่ม", "roman": "dʉ̀ʉm", "arti": "minum"},
+{"thai": "น้ำ", "roman": "nám", "arti": "air"},
+{"thai": "เยอะ", "roman": "yə́", "arti": "banyak"}
+]
+},
+{
+"id": 274,
+"thai": "ตอนเย็นผมดูซีรีย์",
+"roman": "tɔɔn yen phǒm duu sii-rîi",
+"arti": "Sore hari saya nonton series.",
+"breakdown": [
+{"thai": "ตอนเย็น", "roman": "tɔɔn yen", "arti": "sore hari"},
+{"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+{"thai": "ดูซีรีย์", "roman": "duu sii-rîi", "arti": "nonton series"}
+]
+},
+{
+"id": 275,
+"thai": "วันนี้คุณดูดีมาก",
+"roman": "wan-níi khun duu dii mâak",
+"arti": "Hari ini kamu kelihatan bagus banget.",
+"breakdown": [
+{"thai": "วันนี้", "roman": "wan-níi", "arti": "hari ini"},
+{"thai": "คุณ", "roman": "khun", "arti": "kamu"},
+{"thai": "ดูดี", "roman": "duu dii", "arti": "kelihatan bagus"},
+{"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+]
+}
+]
