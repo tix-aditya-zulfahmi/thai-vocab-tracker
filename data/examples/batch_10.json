@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1639,
+    "thai": "นาฬิกาเรือนนี้สวยมาก",
+    "roman": "naaliikaa ruuan níi sǔuay mâak",
+    "arti": "Jam ini sangat bagus.",
+    "breakdown": [
+      {"thai": "นาฬิกา", "roman": "naaliikaa", "arti": "jam"},
+      {"thai": "เรือน", "roman": "ruuan", "arti": "buah (kata bantu jam)"},
+      {"thai": "นี้", "roman": "níi", "arti": "ini"},
+      {"thai": "สวย", "roman": "sǔuay", "arti": "bagus/cantik"},
+      {"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+    ]
+  },
+  {
+    "id": 1640,
+    "thai": "ฉันตื่นตีห้าทุกวัน",
+    "roman": "chǎn tùuen tii hâa thúk wan",
+    "arti": "Saya bangun jam lima pagi setiap hari.",
+    "breakdown": [
+      {"thai": "ฉัน", "roman": "chǎn", "arti": "saya"},
+      {"thai": "ตื่น", "roman": "tùuen", "arti": "bangun"},
+      {"thai": "ตี", "roman": "tii", "arti": "jam (dini hari)"},
+      {"thai": "ห้า", "roman": "hâa", "arti": "lima"},
+      {"thai": "ทุกวัน", "roman": "thúk wan", "arti": "setiap hari"}
+    ]
+  },
+  {
+    "id": 1641,
+    "thai": "ประชุมเจ็ดโมงเช้านะ",
+    "roman": "prachum jèt moong cháo ná",
+    "arti": "Rapat jam tujuh pagi ya.",
+    "breakdown": [
+      {"thai": "ประชุม", "roman": "prachum", "arti": "rapat"},
+      {"thai": "เจ็ด", "roman": "jèt", "arti": "tujuh"},
+      {"thai": "โมงเช้า", "roman": "moong cháo", "arti": "jam pagi"},
+      {"thai": "นะ", "roman": "ná", "arti": "ya (partikel)"}
+    ]
+  },
+  {
+    "id": 1642,
+    "thai": "เรากินข้าวเที่ยงด้วยกัน",
+    "roman": "rao kin khâao thîiang dûuay gan",
+    "arti": "Kita makan siang bersama.",
+    "breakdown": [
+      {"thai": "เรา", "roman": "rao", "arti": "kita"},
+      {"thai": "กิน", "roman": "kin", "arti": "makan"},
+      {"thai": "ข้าว", "roman": "khâao", "arti": "nasi/makan"},
+      {"thai": "เที่ยง", "roman": "thîiang", "arti": "tengah hari"},
+      {"thai": "ด้วยกัน", "roman": "dûuay gan", "arti": "bersama"}
+    ]
+  },
+  {
+    "id": 1643,
+    "thai": "บ่ายสองโมงมีประชุม",
+    "roman": "bàai sǎawng moong mii prachum",
+    "arti": "Jam dua sore ada rapat.",
+    "breakdown": [
+      {"thai": "บ่าย", "roman": "bàai", "arti": "sore"},
+      {"thai": "สอง", "roman": "sǎawng", "arti": "dua"},
+      {"thai": "โมง", "roman": "moong", "arti": "jam"},
+      {"thai": "มี", "roman": "mii", "arti": "ada"},
+      {"thai": "ประชุม", "roman": "prachum", "arti": "rapat"}
+    ]
+  },
+  {
+    "id": 1644,
+    "thai": "ฉันกลับบ้านสองทุ่ม",
+    "roman": "chǎn glàp bâan sǎawng thûm",
+    "arti": "Saya pulang jam delapan malam.",
+    "breakdown": [
+      {"thai": "ฉัน", "roman": "chǎn", "arti": "saya"},
+      {"thai": "กลับ", "roman": "glàp", "arti": "pulang/kembali"},
+      {"thai": "บ้าน", "roman": "bâan", "arti": "rumah"},
+      {"thai": "สอง", "roman": "sǎawng", "arti": "dua"},
+      {"thai": "ทุ่ม", "roman": "thûm", "arti": "jam (malam)"}
+    ]
+  },
+  {
+    "id": 1645,
+    "thai": "เขานอนตอนเที่ยงคืน",
+    "roman": "kháo naawn toon thîiang khuun",
+    "arti": "Dia tidur tengah malam.",
+    "breakdown": [
+      {"thai": "เขา", "roman": "kháo", "arti": "dia"},
+      {"thai": "นอน", "roman": "naawn", "arti": "tidur"},
+      {"thai": "ตอน", "roman": "toon", "arti": "waktu/pada"},
+      {"thai": "เที่ยงคืน", "roman": "thîiang khuun", "arti": "tengah malam"}
+    ]
+  },
+  {
+    "id": 1646,
+    "thai": "ตอนนี้บ่ายสองครึ่ง",
+    "roman": "toon níi bàai sǎawng khrûeng",
+    "arti": "Sekarang jam setengah tiga sore.",
+    "breakdown": [
+      {"thai": "ตอนนี้", "roman": "toon níi", "arti": "sekarang"},
+      {"thai": "บ่าย", "roman": "bàai", "arti": "sore"},
+      {"thai": "สอง", "roman": "sǎawng", "arti": "dua"},
+      {"thai": "ครึ่ง", "roman": "khrûeng", "arti": "setengah"}
+    ]
+  },
+  {
+    "id": 1647,
+    "thai": "ตอนเช้าฉันดื่มกาแฟ",
+    "roman": "toon cháo chǎn dùuem gaafɛɛ",
+    "arti": "Pagi hari saya minum kopi.",
+    "breakdown": [
+      {"thai": "ตอนเช้า", "roman": "toon cháo", "arti": "pagi hari"},
+      {"thai": "ฉัน", "roman": "chǎn", "arti": "saya"},
+      {"thai": "ดื่ม", "roman": "dùuem", "arti": "minum"},
+      {"thai": "กาแฟ", "roman": "gaafɛɛ", "arti": "kopi"}
+    ]
+  },
+  {
+    "id": 1648,
+    "thai": "ตอนนี้กี่โมงแล้ว",
+    "roman": "toon níi kìi moong lɛ́ɛo",
+    "arti": "Sekarang jam berapa?",
+    "breakdown": [
+      {"thai": "ตอนนี้", "roman": "toon níi", "arti": "sekarang"},
+      {"thai": "กี่โมง", "roman": "kìi moong", "arti": "jam berapa"},
+      {"thai": "แล้ว", "roman": "lɛ́ɛo", "arti": "sudah (partikel)"}
+    ]
+  },
+  {
+    "id": 1649,
+    "thai": "ไปเช้าดีกว่า",
+    "roman": "pai cháo dii kwàa",
+    "arti": "Pergi pagi lebih baik.",
+    "breakdown": [
+      {"thai": "ไป", "roman": "pai", "arti": "pergi"},
+      {"thai": "เช้า", "roman": "cháo", "arti": "pagi"},
+      {"thai": "ดีกว่า", "roman": "dii kwàa", "arti": "lebih baik"}
+    ]
+  },
+  {
+    "id": 1650,
+    "thai": "งานนี้ง่ายมาก",
+    "roman": "ngaan níi ngâai mâak",
+    "arti": "Pekerjaan ini sangat mudah.",
+    "breakdown": [
+      {"thai": "งาน", "roman": "ngaan", "arti": "pekerjaan"},
+      {"thai": "นี้", "roman": "níi", "arti": "ini"},
+      {"thai": "ง่าย", "roman": "ngâai", "arti": "mudah"},
+      {"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+    ]
+  },
+  {
+    "id": 1651,
+    "thai": "ภาษาไทยยากไหม",
+    "roman": "phaasǎa thai yâak mǎi",
+    "arti": "Apakah bahasa Thai sulit?",
+    "breakdown": [
+      {"thai": "ภาษา", "roman": "phaasǎa", "arti": "bahasa"},
+      {"thai": "ไทย", "roman": "thai", "arti": "Thai"},
+      {"thai": "ยาก", "roman": "yâak", "arti": "sulit"},
+      {"thai": "ไหม", "roman": "mǎi", "arti": "apakah (partikel tanya)"}
+    ]
+  },
+  {
+    "id": 1652,
+    "thai": "ระบบนี้เสถียรดี",
+    "roman": "rábòp níi sàthiian dii",
+    "arti": "Sistem ini stabil.",
+    "breakdown": [
+      {"thai": "ระบบ", "roman": "rábòp", "arti": "sistem"},
+      {"thai": "นี้", "roman": "níi", "arti": "ini"},
+      {"thai": "เสถียร", "roman": "sàthiian", "arti": "stabil"},
+      {"thai": "ดี", "roman": "dii", "arti": "baik"}
+    ]
+  },
+  {
+    "id": 1653,
+    "thai": "ฉันไปทำงานทุกวัน",
+    "roman": "chǎn pai tham ngaan thúk wan",
+    "arti": "Saya pergi kerja setiap hari.",
+    "breakdown": [
+      {"thai": "ฉัน", "roman": "chǎn", "arti": "saya"},
+      {"thai": "ไป", "roman": "pai", "arti": "pergi"},
+      {"thai": "ทำงาน", "roman": "tham ngaan", "arti": "bekerja"},
+      {"thai": "ทุกวัน", "roman": "thúk wan", "arti": "setiap hari"}
+    ]
+  },
+  {
+    "id": 1654,
+    "thai": "บางวันฉันทำงานที่บ้าน",
+    "roman": "baang wan chǎn tham ngaan thîi bâan",
+    "arti": "Kadang suatu hari saya kerja di rumah.",
+    "breakdown": [
+      {"thai": "บางวัน", "roman": "baang wan", "arti": "kadang suatu hari"},
+      {"thai": "ฉัน", "roman": "chǎn", "arti": "saya"},
+      {"thai": "ทำงาน", "roman": "tham ngaan", "arti": "bekerja"},
+      {"thai": "ที่", "roman": "thîi", "arti": "di"},
+      {"thai": "บ้าน", "roman": "bâan", "arti": "rumah"}
+    ]
+  },
+  {
+    "id": 1655,
+    "thai": "บางครั้งฉันมาสาย",
+    "roman": "baang khráng chǎn maa sǎai",
+    "arti": "Kadang-kadang saya datang terlambat.",
+    "breakdown": [
+      {"thai": "บางครั้ง", "roman": "baang khráng", "arti": "kadang-kadang"},
+      {"thai": "ฉัน", "roman": "chǎn", "arti": "saya"},
+      {"thai": "มา", "roman": "maa", "arti": "datang"},
+      {"thai": "สาย", "roman": "sǎai", "arti": "terlambat"}
+    ]
+  },
+  {
+    "id": 1656,
+    "thai": "หลังจากเลิกงานฉันกลับบ้าน",
+    "roman": "lǎng jàak lə̂ək ngaan chǎn glàp bâan",
+    "arti": "Setelah selesai kerja saya pulang.",
+    "breakdown": [
+      {"thai": "หลังจาก", "roman": "lǎng jàak", "arti": "setelah"},
+      {"thai": "เลิกงาน", "roman": "lə̂ək ngaan", "arti": "selesai kerja"},
+      {"thai": "ฉัน", "roman": "chǎn", "arti": "saya"},
+      {"thai": "กลับ", "roman": "glàp", "arti": "pulang"},
+      {"thai": "บ้าน", "roman": "bâan", "arti": "rumah"}
+    ]
+  },
+  {
+    "id": 1657,
+    "thai": "เราทำงานต่อพรุ่งนี้",
+    "roman": "rao tham ngaan tòo phrûng níi",
+    "arti": "Kita lanjut kerja besok.",
+    "breakdown": [
+      {"thai": "เรา", "roman": "rao", "arti": "kita"},
+      {"thai": "ทำงาน", "roman": "tham ngaan", "arti": "bekerja"},
+      {"thai": "ต่อ", "roman": "tòo", "arti": "lanjut/terus"},
+      {"thai": "พรุ่งนี้", "roman": "phrûng níi", "arti": "besok"}
+    ]
+  }
+]

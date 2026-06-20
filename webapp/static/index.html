@@ -61,11 +61,13 @@
         <div class="reveal" id="reveal"></div>
         <div class="example" id="example" hidden></div>
       </div>
-
-      <div class="card-actions" id="cardActions" hidden>
-        <button class="btn-primary" id="nextBtn">Lanjut <span class="kbd">↵</span></button>
-      </div>
     </section>
+
+    <!-- Outside .card so it can pin to the viewport bottom on phones (an
+         ancestor with a retained transform would scope position: fixed). -->
+    <div class="card-actions" id="cardActions" hidden>
+      <button class="btn-primary" id="nextBtn">Lanjut <span class="kbd">↵</span></button>
+    </div>
 
     <div class="footer-row">
       <button class="btn-ghost" id="endBtn">Akhiri sesi</button>

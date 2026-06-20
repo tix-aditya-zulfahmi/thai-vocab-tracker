@@ -12,7 +12,11 @@ pip install -r requirements.txt
 python3 server.py
 ```
 
-Open http://127.0.0.1:5000 (set `PORT=5050` to use another port).
+Open http://127.0.0.1:5050 (set `PORT=...` to use another port).
+
+Note: the default is 5050, not 5000 — macOS reserves port 5000 for AirPlay
+Receiver, which returns an "Access denied" 403. Disable it under System Settings
+→ General → AirDrop & Handoff → AirPlay Receiver if you'd rather use 5000.
 
 ## How to use
 

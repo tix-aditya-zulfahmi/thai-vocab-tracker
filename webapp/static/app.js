@@ -54,6 +54,7 @@ async function loadCard() {
   $("options").innerHTML = "";
   $("prompt").textContent = "…";
   state.answered = false;
+  document.body.classList.remove("answered");
 
   const card = await api(`/api/next?direction=${state.direction}`);
   if (card.done) {
@@ -112,7 +113,11 @@ function renderExample(ex) {
   if (ex.romanization) html += `<div class="ex-roman">${ex.romanization}</div>`;
   if (ex.meaning) html += `<div class="ex-meaning">${ex.meaning}</div>`;
   if (Array.isArray(ex.breakdown) && ex.breakdown.length) {
-    html += `<div class="breakdown">`;
+    // Breakdown is the tallest block; collapsed by default so the answer
+    // feedback stays in the first fold on a phone. One tap reveals it.
+    html += `<button class="bd-toggle" id="bdToggle" type="button" aria-expanded="false">` +
+            `Rincian kata <span class="chev">▾</span></button>`;
+    html += `<div class="breakdown collapsed" id="breakdown">`;
     ex.breakdown.forEach((w) => {
       html += `<div class="bd-row"><span class="bd-thai">${w.thai || ""}</span>` +
               `<span class="bd-roman">${w.roman || ""}</span>` +
@@ -122,6 +127,16 @@ function renderExample(ex) {
   }
   el.innerHTML = html;
   el.hidden = false;
+
+  const toggle = $("bdToggle");
+  if (toggle) {
+    toggle.addEventListener("click", () => {
+      const bd = $("breakdown");
+      const open = bd.classList.toggle("collapsed") === false;
+      toggle.classList.toggle("open", open);
+      toggle.setAttribute("aria-expanded", String(open));
+    });
+  }
 }
 
 async function choose(chosenId, btn) {
@@ -140,13 +155,16 @@ async function choose(chosenId, btn) {
     }),
   });
 
+  // Keep only the correct answer (+ the user's wrong pick, if any) on screen;
+  // collapse the other distractors so the reveal rises into the fold.
   document.querySelectorAll(".opt").forEach((b) => {
     b.disabled = true;
     const vid = Number(b.dataset.vocabId);
     if (vid === result.correct_vocab_id) b.classList.add("correct");
     else if (b === btn) b.classList.add("wrong");
-    else b.classList.add("dim");
+    else b.classList.add("gone");
   });
+  document.body.classList.add("answered");
 
   const s = state.session;
   s.total++;

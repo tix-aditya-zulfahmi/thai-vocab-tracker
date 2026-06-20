@@ -179,4 +179,10 @@ def static_files(path):
 if __name__ == "__main__":
     if not os.path.exists(DB_PATH):
         sys.exit(f"DB not found at {DB_PATH}. Run build_db.py first (one dir up).")
-    app.run(host="127.0.0.1", port=int(os.environ.get("PORT", 5000)), debug=True)
+    # Default 5050: macOS uses port 5000 for AirPlay Receiver, which 403s.
+    # HOST=127.0.0.1 (default) is localhost-only. Set HOST to your Tailscale IP
+    # (100.x.y.z) to reach it from your phone over the tailnet, or 0.0.0.0 for all
+    # interfaces. Debugger auto-disables when not on localhost (safer when exposed).
+    host = os.environ.get("HOST", "127.0.0.1")
+    debug = os.environ.get("DEBUG", "1" if host == "127.0.0.1" else "0") == "1"
+    app.run(host=host, port=int(os.environ.get("PORT", 5050)), debug=debug)

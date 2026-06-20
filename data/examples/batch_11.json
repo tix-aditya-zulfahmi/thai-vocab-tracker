@@ -1,0 +1,241 @@
+[
+  {
+    "id": 1658,
+    "thai": "ผมตื่นนอนหกโมงเช้า",
+    "roman": "phǒm tùuen noon hòk moong cháao",
+    "arti": "Saya bangun tidur jam enam pagi.",
+    "breakdown": [
+      {"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+      {"thai": "ตื่นนอน", "roman": "tùuen noon", "arti": "bangun tidur"},
+      {"thai": "หกโมงเช้า", "roman": "hòk moong cháao", "arti": "jam enam pagi"}
+    ]
+  },
+  {
+    "id": 1659,
+    "thai": "เริ่มงานเก้าโมงครับ",
+    "roman": "rôoem ngaan kâao moong khráp",
+    "arti": "Mulai kerja jam sembilan.",
+    "breakdown": [
+      {"thai": "เริ่มงาน", "roman": "rôoem ngaan", "arti": "mulai kerja"},
+      {"thai": "เก้าโมง", "roman": "kâao moong", "arti": "jam sembilan"},
+      {"thai": "ครับ", "roman": "khráp", "arti": "partikel sopan (laki-laki)"}
+    ]
+  },
+  {
+    "id": 1660,
+    "thai": "ช่วยเปิดคอมหน่อยครับ",
+    "roman": "chûuai pôoet khom nòi khráp",
+    "arti": "Tolong nyalakan komputernya.",
+    "breakdown": [
+      {"thai": "ช่วย", "roman": "chûuai", "arti": "tolong/bantu"},
+      {"thai": "เปิด", "roman": "pôoet", "arti": "nyalakan/buka"},
+      {"thai": "คอม", "roman": "khom", "arti": "komputer (singkatan)"},
+      {"thai": "หน่อย", "roman": "nòi", "arti": "sedikit (pelembut)"},
+      {"thai": "ครับ", "roman": "khráp", "arti": "partikel sopan (laki-laki)"}
+    ]
+  },
+  {
+    "id": 1661,
+    "thai": "ผมอ่านอีเมลทุกเช้า",
+    "roman": "phǒm àan iimeel thúk cháao",
+    "arti": "Saya membaca email setiap pagi.",
+    "breakdown": [
+      {"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+      {"thai": "อ่าน", "roman": "àan", "arti": "membaca"},
+      {"thai": "อีเมล", "roman": "iimeel", "arti": "email"},
+      {"thai": "ทุกเช้า", "roman": "thúk cháao", "arti": "setiap pagi"}
+    ]
+  },
+  {
+    "id": 1662,
+    "thai": "ส่งเอกสารให้ผมหน่อยครับ",
+    "roman": "sòng èkkasǎan hâi phǒm nòi khráp",
+    "arti": "Tolong kirimkan dokumennya ke saya.",
+    "breakdown": [
+      {"thai": "ส่ง", "roman": "sòng", "arti": "mengirim/menyerahkan"},
+      {"thai": "เอกสาร", "roman": "èkkasǎan", "arti": "dokumen"},
+      {"thai": "ให้", "roman": "hâi", "arti": "kepada/untuk"},
+      {"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+      {"thai": "หน่อย", "roman": "nòi", "arti": "sedikit (pelembut)"},
+      {"thai": "ครับ", "roman": "khráp", "arti": "partikel sopan (laki-laki)"}
+    ]
+  },
+  {
+    "id": 1663,
+    "thai": "ช่วยเช็คอีเมลด้วยครับ",
+    "roman": "chûuai chék iimeel dûuai khráp",
+    "arti": "Tolong cek emailnya juga.",
+    "breakdown": [
+      {"thai": "ช่วย", "roman": "chûuai", "arti": "tolong/bantu"},
+      {"thai": "เช็ค", "roman": "chék", "arti": "mengecek"},
+      {"thai": "อีเมล", "roman": "iimeel", "arti": "email"},
+      {"thai": "ด้วย", "roman": "dûuai", "arti": "juga"},
+      {"thai": "ครับ", "roman": "khráp", "arti": "partikel sopan (laki-laki)"}
+    ]
+  },
+  {
+    "id": 1664,
+    "thai": "อย่าทิ้งเอกสารนี้นะ",
+    "roman": "yàa thîng èkkasǎan níi ná",
+    "arti": "Jangan buang dokumen ini ya.",
+    "breakdown": [
+      {"thai": "อย่า", "roman": "yàa", "arti": "jangan"},
+      {"thai": "ทิ้ง", "roman": "thîng", "arti": "buang/abaikan"},
+      {"thai": "เอกสาร", "roman": "èkkasǎan", "arti": "dokumen"},
+      {"thai": "นี้", "roman": "níi", "arti": "ini"},
+      {"thai": "นะ", "roman": "ná", "arti": "ya (pelembut)"}
+    ]
+  },
+  {
+    "id": 1665,
+    "thai": "ทีมเราประชุมบ่ายนี้",
+    "roman": "thiim rao prachum bàai níi",
+    "arti": "Tim kami rapat siang ini.",
+    "breakdown": [
+      {"thai": "ทีม", "roman": "thiim", "arti": "tim"},
+      {"thai": "เรา", "roman": "rao", "arti": "kami/kita"},
+      {"thai": "ประชุม", "roman": "prachum", "arti": "rapat"},
+      {"thai": "บ่ายนี้", "roman": "bàai níi", "arti": "siang/sore ini"}
+    ]
+  },
+  {
+    "id": 1666,
+    "thai": "เอกสารอยู่บนโต๊ะ",
+    "roman": "èkkasǎan yùu bon tó",
+    "arti": "Dokumennya ada di atas meja.",
+    "breakdown": [
+      {"thai": "เอกสาร", "roman": "èkkasǎan", "arti": "dokumen"},
+      {"thai": "อยู่", "roman": "yùu", "arti": "berada"},
+      {"thai": "บน", "roman": "bon", "arti": "di atas"},
+      {"thai": "โต๊ะ", "roman": "tó", "arti": "meja"}
+    ]
+  },
+  {
+    "id": 1667,
+    "thai": "ผมส่งอีเมลให้คุณแล้ว",
+    "roman": "phǒm sòng iimeel hâi khun láeo",
+    "arti": "Saya sudah mengirim email ke Anda.",
+    "breakdown": [
+      {"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+      {"thai": "ส่ง", "roman": "sòng", "arti": "mengirim"},
+      {"thai": "อีเมล", "roman": "iimeel", "arti": "email"},
+      {"thai": "ให้", "roman": "hâi", "arti": "kepada"},
+      {"thai": "คุณ", "roman": "khun", "arti": "Anda/kamu"},
+      {"thai": "แล้ว", "roman": "láeo", "arti": "sudah"}
+    ]
+  },
+  {
+    "id": 1668,
+    "thai": "คอมพิวเตอร์ของผมช้ามาก",
+    "roman": "khoomphiwtôoe khǎawng phǒm cháa mâak",
+    "arti": "Komputer saya sangat lambat.",
+    "breakdown": [
+      {"thai": "คอมพิวเตอร์", "roman": "khoomphiwtôoe", "arti": "komputer"},
+      {"thai": "ของ", "roman": "khǎawng", "arti": "milik/punya"},
+      {"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+      {"thai": "ช้า", "roman": "cháa", "arti": "lambat"},
+      {"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+    ]
+  },
+  {
+    "id": 1669,
+    "thai": "เขาทำงานแผนกบัญชี",
+    "roman": "kháo tham ngaan phanàek banchii",
+    "arti": "Dia bekerja di bagian akuntansi.",
+    "breakdown": [
+      {"thai": "เขา", "roman": "kháo", "arti": "dia"},
+      {"thai": "ทำงาน", "roman": "tham ngaan", "arti": "bekerja"},
+      {"thai": "แผนก", "roman": "phanàek", "arti": "departemen/bagian"},
+      {"thai": "บัญชี", "roman": "banchii", "arti": "akuntansi"}
+    ]
+  },
+  {
+    "id": 1670,
+    "thai": "นี่คือหน้าที่ของผม",
+    "roman": "nîi khuue nâa thîi khǎawng phǒm",
+    "arti": "Ini tugas/tanggung jawab saya.",
+    "breakdown": [
+      {"thai": "นี่", "roman": "nîi", "arti": "ini"},
+      {"thai": "คือ", "roman": "khuue", "arti": "adalah"},
+      {"thai": "หน้าที่", "roman": "nâa thîi", "arti": "tugas/tanggung jawab"},
+      {"thai": "ของ", "roman": "khǎawng", "arti": "milik/punya"},
+      {"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"}
+    ]
+  },
+  {
+    "id": 1671,
+    "thai": "ความคิดของคุณดีมาก",
+    "roman": "khwaam khít khǎawng khun dii mâak",
+    "arti": "Ide Anda sangat bagus.",
+    "breakdown": [
+      {"thai": "ความคิด", "roman": "khwaam khít", "arti": "pemikiran/ide"},
+      {"thai": "ของ", "roman": "khǎawng", "arti": "milik/punya"},
+      {"thai": "คุณ", "roman": "khun", "arti": "Anda/kamu"},
+      {"thai": "ดี", "roman": "dii", "arti": "bagus"},
+      {"thai": "มาก", "roman": "mâak", "arti": "sangat"}
+    ]
+  },
+  {
+    "id": 1672,
+    "thai": "เรากินข้าวกลางวันด้วยกันไหม",
+    "roman": "rao kin khâao glaang wan dûuai gan mǎi",
+    "arti": "Kita makan siang bersama, mau?",
+    "breakdown": [
+      {"thai": "เรา", "roman": "rao", "arti": "kita"},
+      {"thai": "กิน", "roman": "kin", "arti": "makan"},
+      {"thai": "ข้าวกลางวัน", "roman": "khâao glaang wan", "arti": "makan siang"},
+      {"thai": "ด้วยกัน", "roman": "dûuai gan", "arti": "bersama"},
+      {"thai": "ไหม", "roman": "mǎi", "arti": "partikel tanya (mau?)"}
+    ]
+  },
+  {
+    "id": 1673,
+    "thai": "คุณควรพักผ่อนบ้าง",
+    "roman": "khun khuuan phák phòn bâang",
+    "arti": "Anda seharusnya istirahat sedikit.",
+    "breakdown": [
+      {"thai": "คุณ", "roman": "khun", "arti": "Anda/kamu"},
+      {"thai": "ควร", "roman": "khuuan", "arti": "seharusnya"},
+      {"thai": "พักผ่อน", "roman": "phák phòn", "arti": "istirahat"},
+      {"thai": "บ้าง", "roman": "bâang", "arti": "sedikit/agak"}
+    ]
+  },
+  {
+    "id": 1674,
+    "thai": "เขาไม่ให้ผมเข้าห้อง",
+    "roman": "kháo mâi hâi phǒm khâo hâwng",
+    "arti": "Dia tidak izinkan saya masuk ruangan.",
+    "breakdown": [
+      {"thai": "เขา", "roman": "kháo", "arti": "dia"},
+      {"thai": "ไม่ให้", "roman": "mâi hâi", "arti": "tidak izinkan"},
+      {"thai": "ผม", "roman": "phǒm", "arti": "saya (laki-laki)"},
+      {"thai": "เข้า", "roman": "khâo", "arti": "masuk"},
+      {"thai": "ห้อง", "roman": "hâwng", "arti": "ruangan"}
+    ]
+  },
+  {
+    "id": 1675,
+    "thai": "แต่ละคนมีหน้าที่ของตัวเอง",
+    "roman": "tàe là khon mii nâa thîi khǎawng tua eeng",
+    "arti": "Setiap orang punya tugasnya sendiri.",
+    "breakdown": [
+      {"thai": "แต่ละคน", "roman": "tàe là khon", "arti": "setiap orang"},
+      {"thai": "มี", "roman": "mii", "arti": "punya/memiliki"},
+      {"thai": "หน้าที่", "roman": "nâa thîi", "arti": "tugas/tanggung jawab"},
+      {"thai": "ของ", "roman": "khǎawng", "arti": "milik"},
+      {"thai": "ตัวเอง", "roman": "tua eeng", "arti": "diri sendiri"}
+    ]
+  },
+  {
+    "id": 1676,
+    "thai": "ความคิดของเราไม่เหมือนกัน",
+    "roman": "khwaam khít khǎawng rao mâi mǔuean gan",
+    "arti": "Pemikiran kami berbeda-beda.",
+    "breakdown": [
+      {"thai": "ความคิด", "roman": "khwaam khít", "arti": "pemikiran/ide"},
+      {"thai": "ของ", "roman": "khǎawng", "arti": "milik"},
+      {"thai": "เรา", "roman": "rao", "arti": "kami"},
+      {"thai": "ไม่เหมือนกัน", "roman": "mâi mǔuean gan", "arti": "berbeda-beda"}
+    ]
+  }
+]
